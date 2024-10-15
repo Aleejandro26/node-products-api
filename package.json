@@ -1,0 +1,19 @@
+{
+  "name": "dashboard_backend",
+  "version": "0.0.1",
+  "description": "Construccion de API sobre productos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "Aleejandro26",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  }
+}
